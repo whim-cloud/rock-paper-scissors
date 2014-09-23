@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/whim-cloud/rock-paper-scissors/issues"
   },
-  "homepage": "https://github.com/whim-cloud/rock-paper-scissors"
+  "homepage": "https://github.com/whim-cloud/rock-paper-scissors",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
 }
