@@ -1,0 +1,26 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "0.0.1",
+  "description": "having fun playing with nodejs and prompt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whim-cloud/rock-paper-scissors.git"
+  },
+  "keywords": [
+    "rock",
+    "paper",
+    "scissors",
+    "node",
+    "prompt"
+  ],
+  "author": "Joey Hipolito <hi@joeyhipolito.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whim-cloud/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/whim-cloud/rock-paper-scissors"
+}
